@@ -82,4 +82,5 @@ RegisterNumber:25018527
 
 
 **RESULTS**
+
 JK flipflop using verilog and validating their funmtionality using their functional tables
